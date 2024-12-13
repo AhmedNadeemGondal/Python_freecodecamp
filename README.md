@@ -2,7 +2,9 @@
 
 This repository contains Python projects completed as part of FreeCodeCamp's <u>**Scientific Computing with Python**</u> certification, earned on **May 1, 2023**. The purpose is to demonstrate proficiency in Python by solving a series of challenges. Each folder includes the project code and corresponding test cases.
 
-[View Certification](https://www.freecodecamp.org/certification/fccc75a8831-a9be-4d09-a646-c66b431c12ec/scientific-computing-with-python-v7)
+<!-- [View Certification](https://www.freecodecamp.org/certification/fccc75a8831-a9be-4d09-a646-c66b431c12ec/scientific-computing-with-python-v7) -->
+
+<a href="https://www.freecodecamp.org/certification/fccc75a8831-a9be-4d09-a646-c66b431c12ec/scientific-computing-with-python-v7" target="_blank">View Certification</a>
 
 ## Projects
 
